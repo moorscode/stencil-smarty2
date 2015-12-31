@@ -39,7 +39,7 @@ if ( is_file( $register ) ) {
 		 */
 		function __stencil_not_installed() {
 			$message = sprintf(
-				__( 'addon: Required plugin "<a href="%s" target="_blank">Stencil</a>" is not installed.', 'stencil' ),
+				__( 'implementation: Required plugin "<a href="%s" target="_blank">Stencil</a>" is not installed.', 'stencil' ),
 				'https://wordpress.org/plugins/stencil/'
 			);
 

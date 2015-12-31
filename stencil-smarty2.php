@@ -1,10 +1,10 @@
 <?php
 /**
 Plugin Name: Stencil: Smarty 2.x Implementation
-Plugin URI: http://www.jipmoors.nl/stencil/
-Description: Stencil Implementation. This addon enables the use of Smarty 2.x in your theme. This addon requires the plugin Stencil to be installed and activated.
+Plugin URI: https://github.com/moorscode/stencil/
+Description: Smarty 2 Stencil Implementation. This plugin enables the use of Smarty 2 in your theme. This implementation requires the plugin "Stencil" to be installed and active.
 Version: 1.0.0
-Author: jipmoors
+Author: Jip Moors (moorscode)
 Author URI: http://www.jipmoors.nl
 Text Domain: stencil
 License: GPL2
